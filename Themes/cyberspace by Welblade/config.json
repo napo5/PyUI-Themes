@@ -42,8 +42,7 @@
     },
     "topBarFontSize": 26,
     "screensaver": {
-        "bgImage": "screensaver.png",
-        "bgImage": "/mnt/SDCARD/themes/cyberspace/screensaver.png",
+        "bgImage": "/mnt/SDCARD/themes/cyberspace by Welblade/screensaver.png",
         "screensaverTimeoutSec": 70,
         "widgets": [
             {
