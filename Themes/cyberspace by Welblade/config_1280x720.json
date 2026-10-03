@@ -40,6 +40,7 @@
         "color": "#b6b6b6",
         "selectedcolor": "#19ffd6"
     },
+    "useTextForLineHeight": false,
     "topBarFontSize": 40,
     "screensaver": {
         "bgImage": "/mnt/SDCARD/themes/cyberspace by Welblade/screensaver.png",
